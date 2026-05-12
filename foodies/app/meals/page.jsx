@@ -1,9 +1,9 @@
 import Link from 'next/link';
 
-export default function Meals() {
+export default function MealsPage() {
     return (
         <main>
-            <h1>Meals</h1>
+            <h1>Meals Page</h1>
             <p>
                 <Link href='/meals/meal-1'>Meal 1</Link>
             </p>
